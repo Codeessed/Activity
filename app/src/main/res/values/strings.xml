@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">week 2 Task</string>
+    <string name="orientationTextView">No of orientation state :%1$d</string>
+    <string name="portraitTextView">No of portrait state :%1$d</string>
+    <string name="landscapeTextView">No of landscape state :%1$d</string>
+    <string name="firstButton">Enter</string>
+    <string name="stateTextView">First Textview</string>
+    <string name="nameOfScreen2">Screen 2</string>
+
+</resources>
